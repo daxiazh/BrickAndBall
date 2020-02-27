@@ -17,5 +17,5 @@ shell/run.sh # Normally run.
 shell/watch.sh # Run and watching the process, if it crash, restart it.
 shell/cleanLog.sh # Clean the log files.
 ```
-
+说明文档：
 https://musoucrow.github.io/2018/03/09/bnb_1/
